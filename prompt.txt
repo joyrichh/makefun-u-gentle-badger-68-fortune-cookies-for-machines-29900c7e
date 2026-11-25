@@ -1,0 +1,1 @@
+Write one fortune cookie message an AI agent would get, at most 200 characters.
